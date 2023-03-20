@@ -1,4 +1,4 @@
 function f(){
-	console.log(345)
+	console.log(444)
 	console.log(123)
 }
